@@ -1,0 +1,15 @@
+{
+  "Clients": [],
+  "Administrators": [
+    {
+      "Password": "123",
+      "Name": "Гриша",
+      "Workplace": "Администратор",
+      "Age": 21,
+      "Salary": 123123,
+      "ID": 0
+    }
+  ],
+  "Records": [],
+  "Groomers": []
+}
